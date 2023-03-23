@@ -1,6 +1,5 @@
 package job;
 
-// 2. Пусть дан произвольный список целых чисел. Удалить из него чётные числа.
 import java.util.ArrayList;
 
 public class task2 {
