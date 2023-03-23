@@ -21,17 +21,7 @@ public class task4 {
         class_job.RandomCollection(massiv_1);
         class_job.RandomCollection(massiv_2);
 
-        // Разница элементов коллекций
-        // class_job.differenceElement(massiv_1, massiv_2);
-
-        // Разница коллекций 1 - 2
-        //class_job.difference(massiv_1, massiv_2);
-
-        // Разница коллекций 2 - 1
-        //class_job.difference(massiv_2, massiv_1);
-        
-        // Симметричная разницф коллекций
-        //class_job.differenceSymmetry(massiv_1, massiv_2);
+       
 
     }
 
