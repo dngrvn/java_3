@@ -1,6 +1,5 @@
 package job;
 
-// 3. Задан целочисленный список ArrayList. Найти минимальное, максимальное и среднее арифметичское этого списка.
 import java.util.ArrayList;
 
 public class task3 {
